@@ -12,7 +12,7 @@ on:
     
 defaults:
   run:
-    working-directory: ./ConsoleAppSortingArray
+    working-directory: ./ConsoleAppSortArray
 
 # Defines a single job named "build"
 jobs:
