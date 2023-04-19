@@ -9,6 +9,10 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+    
+defaults:
+  run:
+    working-directory: ./ConsoleAppSortingArray
 
 # Defines a single job named "build"
 jobs:
